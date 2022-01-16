@@ -2,7 +2,7 @@ const imagem = document.querySelector('img');
 const botao = document.querySelector('button');
 const nomeDoPersonagem = document.querySelector('#nome');
 const especie = document.querySelector('#especie');
-const condicao = document.querySelector('#staus');
+const condicao = document.querySelector('#condicao');
 
 gerarValorAleatorio = () => {
     return Math.floor(Math.random() * 671);
