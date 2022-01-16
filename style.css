@@ -45,3 +45,9 @@ main > section button {
     list-style-type: none;
     width: 90%;
 }
+#detalhes-container > li {
+    align-items: baseline;
+    display: flex;
+    
+}
+
